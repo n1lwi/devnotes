@@ -1,0 +1,81 @@
+Please wait a moment while I gather a list of all available modules...
+
+__future__          _thread             getpass             secrets
+_abc                _threading_local    gettext             select
+_aix_support        _tkinter            glob                selectors
+_ast                _tracemalloc        graphlib            setuptools
+_asyncio            _uuid               gzip                shelve
+_bisect             _warnings           hashlib             shlex
+_blake2             _weakref            heapq               shutil
+_bootlocale         _weakrefset         hmac                signal
+_bootsubprocess     _winapi             html                site
+_bz2                _xxsubinterpreters  http                smtpd
+_codecs             _zoneinfo           idlelib             smtplib
+_codecs_cn          abc                 imaplib             sndhdr
+_codecs_hk          aifc                imghdr              socket
+_codecs_iso2022     antigravity         imp                 socketserver
+_codecs_jp          argparse            importlib           sqlite3
+_codecs_kr          array               inspect             sre_compile
+_codecs_tw          ast                 io                  sre_constants
+_collections        asynchat            ipaddress           sre_parse
+_collections_abc    asyncio             itertools           ssl
+_compat_pickle      asyncore            json                stat
+_compression        atexit              keyword             statistics
+_contextvars        audioop             lib2to3             string
+_csv                base64              linecache           stringprep
+_ctypes             bdb                 locale              struct
+_ctypes_test        binascii            logging             subprocess
+_datetime           binhex              lzma                sunau
+_decimal            bisect              mailbox             symbol
+_distutils_hack     builtins            mailcap             symtable
+_elementtree        bz2                 marshal             sys
+_functools          cProfile            math                sysconfig
+_hashlib            calendar            mimetypes           tabnanny
+_heapq              cgi                 mmap                tarfile
+_imp                cgitb               modulefinder        telnetlib
+_io                 chunk               msilib              tempfile
+_json               cmath               msvcrt              test
+_locale             cmd                 multiprocessing     textwrap
+_lsprof             code                netrc               this
+_lzma               codecs              nntplib             threading
+_markupbase         codeop              nt                  time
+_md5                collections         ntpath              timeit
+_msi                colorsys            nturl2path          tkinter
+_multibytecodec     compileall          numbers             token
+_multiprocessing    concurrent          opcode              tokenize
+_opcode             configparser        operator            trace
+_operator           contextlib          optparse            traceback
+_osx_support        contextvars         os                  tracemalloc
+_overlapped         copy                parser              tty
+_peg_parser         copyreg             pathlib             turtle
+_pickle             crypt               pdb                 turtledemo
+_py_abc             csv                 pickle              types
+_pydecimal          ctypes              pickletools         typing
+_pyio               curses              pip                 unicodedata
+_queue              dataclasses         pipes               unittest
+_random             datetime            pkg_resources       urllib
+_sha1               dbm                 pkgutil             uu
+_sha256             decimal             platform            uuid
+_sha3               difflib             plistlib            venv
+_sha512             dis                 poplib              warnings
+_signal             distutils           posixpath           wave
+_sitebuiltins       doctest             pprint              weakref
+_socket             email               profile             webbrowser
+_sqlite3            encodings           pstats              winreg
+_sre                ensurepip           pty                 winsound
+_ssl                enum                py_compile          wsgiref
+_stat               errno               pyclbr              xdrlib
+_statistics         faulthandler        pydoc               xml
+_string             filecmp             pydoc_data          xmlrpc
+_strptime           fileinput           pyexpat             xxsubtype
+_struct             fnmatch             queue               zipapp
+_symtable           formatter           quopri              zipfile
+_testbuffer         fractions           random              zipimport
+_testcapi           ftplib              re                  zlib
+_testconsole        functools           reprlib             zoneinfo
+_testimportmultiple gc                  rlcompleter
+_testinternalcapi   genericpath         runpy
+_testmultiphase     getopt              sched
+
+Enter any module name to get more help.  Or, type "modules spam" to search
+for modules whose name or summary contain the string "spam".
